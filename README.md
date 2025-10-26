@@ -23,3 +23,5 @@ $ sudo install -Dm755 rasciit "$pkgdir/usr/bin/rasciit"
 step 4: program launch
 
 $ rasciit
+
+Use ~/.config/rasciit/rasciit.conf to create ASCII arts to type
