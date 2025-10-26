@@ -1,4 +1,4 @@
-if you use arch by the way you can download this package from AUR ( yay -S tux-colored )
+if you use arch by the way you can download this package from AUR ( yay -S rasciit )
 
 compilation from source code:
 
