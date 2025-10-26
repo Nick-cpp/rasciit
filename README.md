@@ -14,7 +14,7 @@ $ git clone https://github.com/Nick-cpp/rasciit
 
 step 3: compilation & installation
 
-$ cd tux/
+$ cd rasciit/
 
 $ g++ -std=c++17 rasciit.cpp -o rasciit
 
