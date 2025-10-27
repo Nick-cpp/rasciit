@@ -1,4 +1,4 @@
-if you use arch by the way you can download this package from AUR ( yay -S rasciit )
+if you use arch by the way you can download this package from AUR ( yay -S ratyper )
 
 compilation from source code:
 
