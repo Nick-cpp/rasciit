@@ -10,18 +10,18 @@ $ sudo pacman -S gcc git - arch-based
 
 step 2: download the project repository
 
-$ git clone https://github.com/Nick-cpp/rasciit
+$ git clone https://github.com/Nick-cpp/ratyper
 
 step 3: compilation & installation
 
-$ cd rasciit/
+$ cd ratyper/
 
-$ g++ -std=c++17 rasciit.cpp -o rasciit
+$ g++ -std=c++17 ratyper.cpp -o ratyper
 
-$ sudo install -Dm755 rasciit "$pkgdir/usr/bin/rasciit"
+$ sudo install -Dm755 ratyper "$pkgdir/usr/bin/ratyper"
 
 step 4: program launch
 
-$ rasciit
+$ ratyper
 
-Use ~/.config/rasciit/rasciit.conf to create ASCII arts to type
+Use ~/.config/ratyper/ratyper.conf to create ASCII arts to type
