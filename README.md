@@ -18,7 +18,7 @@ $ cd ratyper/
 
 $ g++ -std=c++17 ratyper.cpp -o ratyper
 
-$ sudo install -Dm755 ratyper "$pkgdir/usr/bin/ratyper"
+$ sudo install -Dm755 ratyper /usr/bin/ratyper
 
 step 4: program launch
 
